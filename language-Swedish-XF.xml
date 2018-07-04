@@ -330,17 +330,17 @@
   <phrase title="admin_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates]]></phrase>
   <phrase title="admin_templates_may_only_be_created_in_master_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates may only be created in the master style.]]></phrase>
   <phrase title="administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administratör]]></phrase>
-  <phrase title="administrator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrator type]]></phrase>
+  <phrase title="administrator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administratörs typ]]></phrase>
   <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administratörer]]></phrase>
-  <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrators and moderators will not be deleted.]]></phrase>
+  <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administratörer och moderatotofer kan inte bli raderade.]]></phrase>
   <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avancerat läge]]></phrase>
-  <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced options]]></phrase>
+  <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avanderade val]]></phrase>
   <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avancerad sökning]]></phrase>
-  <phrase title="advertisement_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertisement is active]]></phrase>
-  <phrase title="advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising]]></phrase>
-  <phrase title="advertising_position_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position is active]]></phrase>
+  <phrase title="advertisement_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam är aktivt]]></phrase>
+  <phrase title="advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam]]></phrase>
+  <phrase title="advertising_position_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam position är aktiverad]]></phrase>
   <phrase title="advertising_position_keys_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position keys must be unique.]]></phrase>
-  <phrase title="advertising_positions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising positions]]></phrase>
+  <phrase title="advertising_positions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam positioner]]></phrase>
   <phrase title="after_checking_x_files_we_found_y_inconsistent" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[After checking {checked} files we found {inconsistent} files which contained unexpected contents. If you edited these files yourself you may ignore this warning but otherwise you should investigate further as this could be evidence of file corruption or potentially malicious alteration.]]></phrase>
   <phrase title="after_checking_x_files_we_found_y_missing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After checking {checked} files we found {missing} files missing.]]></phrase>
   <phrase title="after_checking_x_files_we_found_y_missing_z_inconsistent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After checking {checked} files we found {missing} files missing and {inconsistent} files which contained unexpected contents.]]></phrase>
